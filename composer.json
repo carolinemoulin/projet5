@@ -1,0 +1,11 @@
+{
+  "name": "Caroline Moulin/Portfolio",
+  "description": "Projet 5 de la formation OpenClassroom",
+  "require": {
+  },
+  "autoload": {
+    "psr-4" : {
+      "App\\" : "www/App"
+    }
+  }
+}
